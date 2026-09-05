@@ -40,3 +40,7 @@ Domain registration, DNS delegation, TLS configuration, hosting, and application
 ## License
 
 OSWAP-authored documentation in this repository is licensed under the Apache License 2.0 unless a file states otherwise.
+
+## Nested research
+
+Exploratory OSWAP hypotheses and future-application material are consolidated under research/ rather than presented as separate core repositories. See [NESTED_RESEARCH.md](NESTED_RESEARCH.md).
