@@ -31,7 +31,11 @@ Implementation-specific repositories remain responsible for their own technical 
 
 Published copies of this mission documentation may be hosted on multiple services. No hosting provider defines the mission of OSWAP. Equivalent GitHub and GitLab copies are intended to preserve the same published mission text and history as closely as practical.
 
-Project website: https://oswap.ca
+## Domain status
+
+OSWAP has registered `oswap.ca`, `oswap.jp`, and `oswap.us` for planned future project infrastructure. No official OSWAP website or public service on those domains is represented by this repository as currently deployed or online.
+
+Domain registration, DNS delegation, TLS configuration, hosting, and application availability are separate states and must be verified independently before documentation describes any OSWAP domain or subdomain as operational.
 
 ## License
 
