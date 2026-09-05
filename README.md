@@ -1,5 +1,11 @@
 # Open-Source World Access Project (OSWAP) — Mission
 
+## Plain-language summary
+
+OSWAP is an open-source effort to make software and AI workflows easier to understand, inspect, move between systems, and control. The project aims to help people know what a tool is doing, approve important actions, verify what changed, and preserve important software and records without depending on one provider.
+
+This repository explains why OSWAP exists, what principles guide it, what is in scope, and how its mission documentation is governed.
+
 This repository records the mission, public-interest principles, scope, governance expectations, and intended social impact of the Open-Source World Access Project (OSWAP).
 
 OSWAP is an open-source project focused on accessible, auditable, portable, and human-controlled digital workflows. Its work includes language and interface design, local-first AI research, provenance and accountability models, software preservation, repository replication, localization, and interoperable tooling.
