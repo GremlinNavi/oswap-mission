@@ -1,4 +1,4 @@
-# Open-Source World Access Project (OSWAP) — Mission
+# Open-Source World Access Project (OSWAP) â€” Mission
 
 This repository records the mission, public-interest principles, scope, governance expectations, and intended social impact of the Open-Source World Access Project (OSWAP).
 
@@ -14,12 +14,12 @@ Read the full mission statement in [MISSION.md](MISSION.md).
 
 ## Documentation
 
-- [MISSION.md](MISSION.md) — canonical mission statement.
-- [PRINCIPLES.md](PRINCIPLES.md) — public-interest design principles.
-- [SCOPE.md](SCOPE.md) — what the mission includes and excludes.
-- [GOVERNANCE.md](GOVERNANCE.md) — mission-document change control and mirror expectations.
-- [PUBLIC_INTEREST.md](PUBLIC_INTEREST.md) — intended social and public-interest impact.
-- [CONTRIBUTING.md](CONTRIBUTING.md) — contribution expectations.
+- [MISSION.md](MISSION.md) â€” canonical mission statement.
+- [PRINCIPLES.md](PRINCIPLES.md) â€” public-interest design principles.
+- [SCOPE.md](SCOPE.md) â€” what the mission includes and excludes.
+- [GOVERNANCE.md](GOVERNANCE.md) â€” mission-document change control and mirror expectations.
+- [PUBLIC_INTEREST.md](PUBLIC_INTEREST.md) â€” intended social and public-interest impact.
+- [CONTRIBUTING.md](CONTRIBUTING.md) â€” contribution expectations.
 
 ## Relationship to OSWAP implementations
 
@@ -40,3 +40,7 @@ Domain registration, DNS delegation, TLS configuration, hosting, and application
 ## License
 
 OSWAP-authored documentation in this repository is licensed under the Apache License 2.0 unless a file states otherwise.
+
+## Nested research
+
+Exploratory OSWAP hypotheses and future-application material are consolidated under esearch/ rather than presented as separate core repositories. See [NESTED_RESEARCH.md](NESTED_RESEARCH.md).
